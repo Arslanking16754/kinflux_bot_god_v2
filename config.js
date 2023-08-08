@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['14242345899', 'kinflux bot', true],
-  ['254110377776', 'zamzack254', true], 
+  ['923347428792', 'kinflux bot', true],
+  ['254110377776', 'Arslan', true], 
   [''] 
 ] //Number of owners
 
@@ -49,17 +49,17 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'kinflux boₜ 🐉'
 global.premium = 'true'
-global.packname = 'toxic┃ᴮᴼᵀ' 
-global.author = 'zamzack254' 
+global.packname = 'Arslan┃ᴮᴼᵀ' 
+global.author = 'Arslan' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
 global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
 global.fgyt = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
+global.fglog = 'https://i.imgur.com/RgIHjEB.jpeg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Arslan king is downlding your video..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
